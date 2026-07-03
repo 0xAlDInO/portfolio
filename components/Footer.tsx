@@ -27,7 +27,7 @@ export default function Footer() {
               height={20}
             />
           </div>
-          <span className="font-black text-lg tracking-[0.2em] text-white uppercase group-hover:text-primary transition-colors">ALDINO</span>
+          <span className="font-black text-lg tracking-[0.2em] text-white uppercase group-hover:text-primary transition-colors">ALTIZOU</span>
         </div>
 
         <div className="flex flex-col items-center md:items-start gap-1">

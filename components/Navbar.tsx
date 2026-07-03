@@ -58,7 +58,7 @@ export default function Navbar() {
           <div className="hidden md:flex items-center bg-white/5 border border-white/10 rounded-full px-3 py-1 gap-2">
              <div className="w-1.5 h-1.5 rounded-full bg-primary animate-pulse shadow-[0_0_8px_rgba(6,182,212,0.8)]" />
              <span className="text-[10px] font-black tracking-[0.2em] flex items-center">
-                <span className="text-white uppercase">ALDINO-</span>
+                <span className="text-white uppercase">ALTIZOU-</span>
                 <span className="text-primary uppercase">{network === 'mainnet-beta' ? 'MAINNET' : network}</span>
              </span>
           </div>
