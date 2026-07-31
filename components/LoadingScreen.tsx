@@ -76,7 +76,7 @@ export default function LoadingScreen() {
                         Fetching Core_Modules...
                     </motion.span>
                     <span className="text-[8px] font-black uppercase tracking-[0.2em] text-gray-700">
-                        Altizou_OS v1.0.0
+                        Aldino_OS v1.0.0
                     </span>
                 </div>
             </div>
